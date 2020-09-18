@@ -1,2 +1,3 @@
 # Sezen_Duygu_Ceren
-HW1
+101 Kodluyoruz Applied Data Science Bootcamp - ÖDEV 1
+
